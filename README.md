@@ -1,5 +1,4 @@
 # KL-Grade-classification
-- Authors: [Kyuhee Jo](kjo3@jhu.edu), [Muhammad Usman](usman@healthhub.kr)
 - This project is conducted as a part of Healthhub AI Research Center.
 
 ## Dual Input Model 
