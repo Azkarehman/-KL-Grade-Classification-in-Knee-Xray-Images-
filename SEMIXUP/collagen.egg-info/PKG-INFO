@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: collagen
+Version: 0.0.1
+Summary: Deep Learning Framework for Reproducible Science
+Home-page: https://github.com/MIPT-Oulu/Collagen
+Author: Hoang Nguyen, Egor Panfilov, Aleksei Tiulpin
+Author-email: huy.nguyen@oulu.fi, egor.panfilov@oulu.fi, aleksei.tiulpin@oulu.fi,
+License: MIT license
+Description: Deep Learning framework for reproducible science. From Finland with love.
+Keywords: data augmentations,deeep learning
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: Linux

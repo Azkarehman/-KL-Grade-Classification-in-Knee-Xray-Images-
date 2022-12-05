@@ -1,0 +1,9 @@
+README.md
+setup.py
+collagen/__init__.py
+collagen.egg-info/PKG-INFO
+collagen.egg-info/SOURCES.txt
+collagen.egg-info/dependency_links.txt
+collagen.egg-info/not-zip-safe
+collagen.egg-info/requires.txt
+collagen.egg-info/top_level.txt
