@@ -16,5 +16,4 @@
 - 50 % accuracy 
 ![alt text](https://user-images.githubusercontent.com/21049855/103620420-cb458c00-4f76-11eb-9d3c-018ce6209d7b.png)
 
-## Joint Detection Algorithm 
 
